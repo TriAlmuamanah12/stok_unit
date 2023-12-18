@@ -1,0 +1,2 @@
+UPDATE history SET PostedDate = '2023-11-26' WHERE No_Rangka = '' AND no_mutasi = ''
+UPDATE history SET PostedDate = '2023-11-26' WHERE No_Rangka = '' AND no_mutasi = '884'
